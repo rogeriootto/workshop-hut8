@@ -1,0 +1,10 @@
+* {
+    font-size: 18px;
+    line-height: 25px;
+}
+.SidebarLinks {
+    margin-left:auto;
+    margin-bottom: 35px;
+    margin-right:auto;
+    width: 60%;
+}

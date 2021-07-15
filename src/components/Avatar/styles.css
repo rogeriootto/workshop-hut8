@@ -1,0 +1,29 @@
+.Avatar {
+    padding-top: 85px;
+    padding-bottom: 59px;
+}
+
+.Avatar img {
+    border-radius: 50%;
+    width: 90px;
+    height: 90px;
+    display: block;
+    margin: 0 auto;
+}
+
+.Avatar h3 {
+    padding-top: 10px;
+    text-align: center;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 27px;
+}
+
+.Avatar p {
+    text-align: center;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+}

@@ -1,0 +1,28 @@
+.Content {
+    display: grid;
+    grid-template-rows: 336px 1fr;
+    height: 50vh;
+}
+.Resumo {
+    padding:80px;
+    margin-right: auto;
+}
+
+.Colunas {
+    display: flex;
+    flex-direction: row;
+}
+
+.Content h1 {
+    font-size: 26px;
+    padding-bottom: 17px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    color: #555555;
+}
+
+.Atividades {
+    padding-left:80px;
+    margin-right: auto;
+}

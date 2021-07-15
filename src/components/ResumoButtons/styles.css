@@ -1,0 +1,38 @@
+.ResumoButtons {
+    background: #F6F6F6;
+    width: 236px;
+    height: 87px;
+    margin-right: 34px;
+    box-sizing: border-box;
+    border-radius: 20px;
+    display: grid;
+    grid-template-columns: 163px 1fr;
+}
+
+.Texto {
+    margin: auto;
+}
+
+.Texto h2 {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    color: #595959;
+}
+
+.Texto p {
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 16px;
+    color:#A5A5A5;
+}
+
+
+.Circulo {
+    background: #FFFFFF;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    margin: auto;
+}
+
