@@ -10,7 +10,7 @@ function ResumoButtons(props) {
                 <p>{props.Texto}</p>
             </div>
             <div className="Circulo">         
-                <img src={props.VectorIMG}></img>
+                <img src={props.VectorIMG} className="Imagem"></img>
             </div>
         </div>
     )

@@ -1,6 +1,6 @@
 .AtividadesButtons {
     background:#FCFCFC;
-    margin-right: 34px;
+    padding-right: 34px;
     box-sizing: border-box;
     border-radius: 20px;
     display: flex;
@@ -8,14 +8,20 @@
 }
 
 .AEP {
+    text-align: center;
+    line-height: 235px;
     background: #FFF1F1;
     width: 236px;
     height: 140px;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
+    text-align: center;
 }
 
 .BancoDeDados{
+    text-align: center;
+    line-height: 235px;
+
     background: #F6FFF1;
     width: 236px;
     height: 140px;

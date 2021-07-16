@@ -1,10 +1,21 @@
-* {
-    font-size: 18px;
-    line-height: 25px;
-}
 .SidebarLinks {
     margin-left:auto;
     margin-bottom: 35px;
     margin-right:auto;
     width: 60%;
+}
+
+.SidebarLinks h2 {
+    font-family: Nunito;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 25px;
+}
+
+.Bold {
+    font-weight: bold;
+}
+
+.Normal {
+    font-weight: normal;
 }

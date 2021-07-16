@@ -34,5 +34,7 @@
     height: 48px;
     border-radius: 50%;
     margin: auto;
-}
+    text-align: center;
+    line-height: 55px;
 
+}

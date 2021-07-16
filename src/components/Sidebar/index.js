@@ -7,8 +7,8 @@ function Sidebar() {
     return(
         <div className="Sidebar">
             <Avatar />
-            <SidebarLinks name="Dashboard" />
-            <SidebarLinks name="Meus cursos" />
+            <SidebarLinks name="Dashboard" Style="Bold" />
+            <SidebarLinks name="Meus cursos" Style="Normal"/>
         </div>
     )
 }

@@ -4,7 +4,7 @@ import './styles.css'
 function SidebarLinks (props) {
     return (
         <div className="SidebarLinks">
-            <a href="http://google.com.br/"><h2>{props.name}</h2></a>
+            <a href="http://google.com.br/"><h2 className={props.Style}>{props.name}</h2></a>
         </div>
     )
 }
